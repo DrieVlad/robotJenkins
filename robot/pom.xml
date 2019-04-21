@@ -6,7 +6,7 @@
     <groupId>com.devcolibri.core</groupId>
     <artifactId>projectMy</artifactId>
     <packaging>jar</packaging>
-    <version>1.1</version>
+    <version>1.2</version>
     <name>projectMy</name>
     <url>http://maven.apache.org</url>
 
