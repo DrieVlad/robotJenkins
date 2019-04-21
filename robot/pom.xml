@@ -32,7 +32,7 @@
                 <configuration>
                     <archive>
                         <manifest>
-                            <mainClass>com.devcolibri.core.Main</mainClass>
+                            <mainClass>gui.RobotsProgram</mainClass>
                         </manifest>
                     </archive>
                 </configuration>
